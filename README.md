@@ -73,8 +73,7 @@ Tenho perfil proativo, autonomia para aprender novas tecnologias e gosto de reso
 📱 Telefone: (61) 99194-8775  
 
 ### 🌐 Redes
-- LinkedIn: <PRIVATE_URL>
-- GitHub: <PRIVATE_URL>
+- LinkedIn: https://www.linkedin.com/in/brunolopesborges/
 
 ---
 
