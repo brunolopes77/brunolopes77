@@ -69,8 +69,7 @@ Tenho perfil proativo, autonomia para aprender novas tecnologias e gosto de reso
 
 ## 📫 Contato
 
-📧 Email: brunolopesborges2007@gmail.com  
-📱 Telefone: (61) 99194-8775  
+📧 Email: brunolopesborges2007@gmail.com    
 
 ### 🌐 Redes
 - LinkedIn: https://www.linkedin.com/in/brunolopesborges/
